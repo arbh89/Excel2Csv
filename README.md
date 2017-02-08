@@ -6,7 +6,7 @@ Implementaction of solution taken from https://gist.github.com/andrewmurray/b63b
 ## Usage
 From command line type:
 
-excel2csv source destination
+**excel2csv source destination**
 
 source       Specifies the file or folder to be converted.
 
